@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あさが来る！",
+  "base_artist": "三枝明那",
+  "createdAt": "2026-03-01T06:16:35.095191Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あさが来る!",
+      "artist": "三枝明那",
+      "has_synced": false,
+      "path": "select/pl_01_あさが来る!_三枝明那.txt"
+    }
+  ]
+}
